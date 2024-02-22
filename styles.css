@@ -1,0 +1,39 @@
+#title {
+    background-color: purple;
+    height: 50;
+    width: 300;
+}
+
+#pantry-section {
+    background-color: red;
+    height: 25;
+    width: 150;
+}
+
+#freeze-section {
+    background-color: blue;
+    height: 25;
+    width: 150;
+}
+
+.squares-1 {
+    background-color: orange;
+    height: 100;
+    width: 100;
+}
+
+.squares-2 {
+    background-color: orange;
+    height: 100;
+    width: 100;
+}
+.squares-3 {
+    background-color: green;
+    height: 100;
+    width: 100;
+}
+.squares-4 {
+    background-color: green;
+    height: 100;
+    width: 200;
+}
